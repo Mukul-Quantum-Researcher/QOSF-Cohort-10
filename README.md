@@ -1,7 +1,9 @@
 # QOSF-Cohort-10
 QOSF Cohort 10 screening task
-** Problem Statement :** 
-Task 4 Decomposition
+** Problem Statement :**  
+
+Task 4 Decomposition  
+
  A common challenge in the design and implementation of quantum circuits is that they become
  too extensive and complex due to the large number of qubits required.
  The number of quantum operations and the interdependence between qubits can further
